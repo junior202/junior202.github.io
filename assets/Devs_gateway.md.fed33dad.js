@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.4ebbde7d.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Devs/gateway.md","lastUpdated":null}',r={};function o(s,c,n,p,_,d){return a(),t("div")}var f=e(r,[["render",o]]);export{l as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.4ebbde7d.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Devs/environment.md","lastUpdated":null}',n={};function r(o,s,c,i,p,_){return a(),t("div")}var m=e(n,[["render",r]]);export{l as __pageData,m as default};

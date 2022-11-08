@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.4ebbde7d.js";const d='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Devs/light.md","lastUpdated":null}',r={};function o(s,c,n,i,l,p){return a(),e("div")}var f=t(r,[["render",o]]);export{d as __pageData,f as default};
